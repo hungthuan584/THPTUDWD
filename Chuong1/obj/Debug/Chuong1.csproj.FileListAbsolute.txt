@@ -1,0 +1,6 @@
+F:\WindowsApp\THPTUDWD\Chuong1\bin\Debug\Chuong1.exe.config
+F:\WindowsApp\THPTUDWD\Chuong1\bin\Debug\Chuong1.exe
+F:\WindowsApp\THPTUDWD\Chuong1\bin\Debug\Chuong1.pdb
+F:\WindowsApp\THPTUDWD\Chuong1\obj\Debug\Chuong1.csprojResolveAssemblyReference.cache
+F:\WindowsApp\THPTUDWD\Chuong1\obj\Debug\Chuong1.exe
+F:\WindowsApp\THPTUDWD\Chuong1\obj\Debug\Chuong1.pdb
