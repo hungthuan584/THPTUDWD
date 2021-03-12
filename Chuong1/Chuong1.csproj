@@ -58,10 +58,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="SoNguyenDuong.cs" />
     <None Include="GiaiPTBac1.cs" />
     <None Include="KetQuaHT.cs" />
     <None Include="SoNhoNhat.cs" />
-    <Compile Include="GiaiPTBac2.cs" />
+    <None Include="GiaiPTBac2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
