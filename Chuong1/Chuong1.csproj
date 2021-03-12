@@ -58,7 +58,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="SoNguyenDuong.cs" />
+    <Compile Include="SoNguyenTo.cs" />
+    <None Include="SoNguyenDuong.cs" />
     <None Include="GiaiPTBac1.cs" />
     <None Include="KetQuaHT.cs" />
     <None Include="SoNhoNhat.cs" />
